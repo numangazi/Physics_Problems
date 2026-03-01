@@ -1,4 +1,4 @@
-# Sekcja 9: Astronomia i astrofizyka
+# Sekcja 8: Astronomia i astrofizyka
 
 ## 1. Prędkość obrotowa
 

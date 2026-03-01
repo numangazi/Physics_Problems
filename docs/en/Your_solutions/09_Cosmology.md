@@ -1,5 +1,11 @@
 # Section 9: Cosmology
 
+Your soultions go here!!!!
+
+---
+
+Below it is just a copy of the tasks, so you can easily navigate to the task you want to solve. You can also use the links in the sidebar to navigate to the tasks.
+
 ## 1. Cosmic Chronology
 
 **Place the following events of the early universe in chronological order** (from earliest to latest): Recombination (formation of neutral atoms), Big Bang Nucleosynthesis, Inflation, Formation of first galaxies, Quark-gluon plasma era.

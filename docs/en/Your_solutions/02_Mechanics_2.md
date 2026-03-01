@@ -1,5 +1,11 @@
 # Section 2: Mechanics II
 
+Your soultions go here!!!!
+
+---
+
+Below it is just a copy of the tasks, so you can easily navigate to the task you want to solve. You can also use the links in the sidebar to navigate to the tasks.
+
 ## 1. Gravitational Dependence
 
 A simple pendulum has a period of 4 seconds on Earth. What would its period be on the Moon, where the gravitational acceleration is about 1/6th of Earth's?

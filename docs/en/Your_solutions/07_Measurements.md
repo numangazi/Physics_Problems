@@ -1,5 +1,11 @@
 # Section 7: Measurements
 
+Your soultions go here!!!!
+
+---
+
+Below it is just a copy of the tasks, so you can easily navigate to the task you want to solve. You can also use the links in the sidebar to navigate to the tasks.
+
 ## 1. Propagation of Error I
 
 The radius of a sphere is measured to be $r = (6.20 \pm 0.05)\text{ cm}$. Calculate the volume of the sphere and its associated uncertainty.

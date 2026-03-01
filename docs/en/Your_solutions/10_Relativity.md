@@ -1,5 +1,11 @@
 # Section 10: Relativity
 
+Your soultions go here!!!!
+
+---
+
+Below it is just a copy of the tasks, so you can easily navigate to the task you want to solve. You can also use the links in the sidebar to navigate to the tasks.
+
 ## 1. Length Contraction
 
 At what speed must a *1-meter-long ruler* travel for its length to be observed as 0.5 meters due to length contraction?

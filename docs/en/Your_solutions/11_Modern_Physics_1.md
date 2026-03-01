@@ -1,5 +1,11 @@
 # Section 11: Modern Physics I
 
+Your soultions go here!!!!
+
+---
+
+Below it is just a copy of the tasks, so you can easily navigate to the task you want to solve. You can also use the links in the sidebar to navigate to the tasks.
+
 ## 1. De Broglie Wavelength
 
 Calculate the de Broglie wavelength of an electron with a kinetic energy of 150 eV.

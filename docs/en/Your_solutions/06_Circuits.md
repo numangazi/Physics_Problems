@@ -1,11 +1,10 @@
----
-theme: gaia
-_class: lead
-paginate: true
-backgroundColor: #fff
+# Section 6: Circuits
+
+Your soultions go here!!!!
+
 ---
 
-# Section 6: Circuits
+Below it is just a copy of the tasks, so you can easily navigate to the task you want to solve. You can also use the links in the sidebar to navigate to the tasks.
 
 ## 1. Series and Parallel Circuit
 

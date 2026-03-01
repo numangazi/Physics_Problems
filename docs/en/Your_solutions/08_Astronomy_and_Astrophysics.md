@@ -1,4 +1,10 @@
-# Section 9: Astronomy and Astrophysics
+# Section 8: Astronomy and Astrophysics
+
+Your soultions go here!!!!
+
+---
+
+Below it is just a copy of the tasks, so you can easily navigate to the task you want to solve. You can also use the links in the sidebar to navigate to the tasks.
 
 ## 1. Rotational Velocity
 
